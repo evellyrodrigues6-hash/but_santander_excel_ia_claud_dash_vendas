@@ -63,7 +63,7 @@ As análises são realizadas no Excel e organizadas para facilitar a interpreta�
 
 ## Como reproduzir o projeto
 
-1. Baixe o arquivo `atividade_3_oficial.xlsx` disponível neste repositório.
+1. Baixe o arquivo `dash_vendas.xlsx` disponível neste repositório.
 2. Abra a planilha no Microsoft Excel, preferencialmente em uma versão que ofereça suporte a tabelas dinâmicas e dashboards.
 3. Acesse a aba `Bases` para consultar os dados utilizados na análise.
 4. Vá até a aba `Cálculos` para verificar as perguntas de negócio e os resultados das tabelas dinâmicas.
